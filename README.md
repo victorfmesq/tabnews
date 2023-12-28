@@ -28,7 +28,16 @@ ltc/hydrogen
 ```
 o nvm precisa de uma quebra de linha
 
-depois só rodar nvm install
+depois só rodar ``nvm install``
 
+## Next.js
+
+``npm init`` - Inicializa arquivo de manifesto package.json.
+
+> NOTA: para esse projeto a licença foi alterada para MIT
+
+`npm i next@13.1.6` - instala Next.js na versão 13.1.6
+`npm i react@18.2.0` - instala React.js na versão 18.2.0
+`npm i react-dom@18.2.0` - instala react-dom na versão 18.2.0
 
 
